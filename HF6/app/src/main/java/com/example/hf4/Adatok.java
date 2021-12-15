@@ -1,12 +1,10 @@
 package com.example.hf4;
 
-import android.app.Fragment;
-
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Adatok extends Fragment implements Serializable {
+public class Adatok implements Serializable {
 
     private  Integer zaszlok;
     private  String  symbol;
@@ -22,7 +20,6 @@ public class Adatok extends Fragment implements Serializable {
         this.cumpara = cumpara;
         this.vinde = vinde;
     }
-
 
     public Integer getZaszlok() {
         return zaszlok;
