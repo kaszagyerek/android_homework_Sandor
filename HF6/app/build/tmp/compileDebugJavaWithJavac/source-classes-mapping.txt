@@ -1,0 +1,10 @@
+com/example/hf4/AdatoAdapter.java
+ com.example.hf4.AdatoAdapter
+ com.example.hf4.AdatoAdapter$VH
+ com.example.hf4.AdatoAdapter$VH$1
+com/example/hf4/Adatok.java
+ com.example.hf4.Adatok
+com/example/hf4/MainActivity.java
+ com.example.hf4.MainActivity
+com/example/hf4/BuildConfig.java
+ com.example.hf4.BuildConfig

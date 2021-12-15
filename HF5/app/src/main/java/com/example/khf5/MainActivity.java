@@ -73,7 +73,8 @@ public class MainActivity extends AppCompatActivity {
             adapter.notifyDataSetChanged();
             Toast.makeText(MainActivity.this, "törölve", Toast.LENGTH_SHORT).show();
             return true;
-        } else  {
+        } else 
+			{
             return super.onOptionsItemSelected(item);
         }
     }
